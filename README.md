@@ -1,4 +1,4 @@
-# Global-Covid-19-Analysis
+# Global Covid-19 Analysis
 <br>
 
 **Tool** : Jupyter Notebook | [Link Notebook]()<br>

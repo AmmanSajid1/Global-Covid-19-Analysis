@@ -11,4 +11,4 @@
 [Link to Flourish Chart Race Visualisation](https://public.flourish.studio/visualisation/14286181/)
 
 
-![alt text]([http://url/to/img.png](https://github.com/AmmanSajid1/Global-Covid-19-Analysis/blob/main/plotly%20graphs/1.PNG)https://github.com/AmmanSajid1/Global-Covid-19-Analysis/blob/main/plotly%20graphs/1.PNG)
+![Plotly Plot 1](https://github.com/AmmanSajid1/Global-Covid-19-Analysis/blob/main/plotly%20graphs/1.PNG?raw=true)

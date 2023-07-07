@@ -14,7 +14,7 @@
 <br>
 
 ---
-**Plotly Plots**
+## Plotly Plots
 
 ![Plotly Plot 1](https://github.com/AmmanSajid1/Global-Covid-19-Analysis/blob/main/plotly%20graphs/1.PNG?raw=true)
 ![Plotly Plot 2](https://github.com/AmmanSajid1/Global-Covid-19-Analysis/blob/main/plotly%20graphs/2.PNG?raw=true)
